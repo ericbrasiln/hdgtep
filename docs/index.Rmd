@@ -2,9 +2,10 @@
 title: "Ocupar as Humanidades Digitais:"
 subtitle: "<br>a historiografia do Pós-abolição e a virada digital<br><br><br><br><br>"
 description: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico."
-author: "Eric Brasil (IHLM/UNILAB)<br>ericbrasiln@proton.me"
-date: "<br>01 de dezembro de 2022<br><br>[![DOI](https://zenodo.org/badge/523121989.svg)](https://zenodo.org/badge/latestdoi/523121989)"
+author: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico.<br><br>**Eric Brasil** (IHLM/UNILAB)<br>ericbrasiln@proton.me"
+date: "<br>01 de dezembro de 2022<br><br>"
 encoding: "UTF-8"
+logo: "https://3internacionalposabolicao.com.br/wp-content/uploads/elementor/thumbs/Logo-2-pox8u5vwl3s8qga4t5ucfm8cwyqgo3blvzj3ajhi7c.png"
 output:
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js
@@ -39,9 +40,26 @@ library(tidyverse)
 library(widgetframe)
 ```
 ---
+
+class: bg_yellow, middle, center
+
+.pull-left[
+```{r, out.width="100%"}
+knitr::include_graphics("img/logo-gtep.png")
+```
+]
+
+.pull-right[
+```{r, out.width="90%"}
+knitr::include_graphics("https://3internacionalposabolicao.com.br/wp-content/uploads/elementor/thumbs/Logo-2-pox8u5vwl3s8qga4t5ucfm8cwyqgo3blvzj3ajhi7c.png")
+```
+]
+
+---
 class: bg_green, center, middle
 
-# Humanidades Digitais: um campo de muitas disputas
+# Humanidades Digitais: 
+## um campo de muitas disputas
 
 ---
 class: bg_yellow, center, middle
@@ -54,7 +72,7 @@ class: bg_yellow, center, middle
 <br>
 
 --
-### - Computadores e Humanidades antes das Humanidades Digitais
+### - Computadores nas Humanidades antes das Humanidades Digitais
 
 ---
 class: bg_yellow, center, middle
@@ -63,9 +81,7 @@ class: bg_yellow, center, middle
 <br>
 
 --
-### -  Muitas histórias do uso do computador na historiografia`[^1]`
-
-`[^1]:`[Technology and the Historian: Transformations in the Digital Age](https://www.press.uillinois.edu/books/?id=p085697) de Adam Crymble.
+### -  Muitas histórias do uso do computador na historiografia
 <br>
 
 --
@@ -83,7 +99,7 @@ class: bg_yellow, center, middle
 ### Pesquisa de Priscila Valverde (UNILAB e LABHDUFBA)
 <br>
 
-### [Ver dados](https://ericbrasiln.github.io/pibic_2020-2021/pos-abolicao/graphs/bar_tema_10_central.html)
+### [Clique aqui para ver dados](https://ericbrasiln.github.io/pibic_2020-2021/pos-abolicao/graphs/bar_tema_10_central.html) e [aqui](https://priscilavalverdes.github.io/TCC-Pos-abolicao/) para acessar a monografia completa.
 <br>
 
 --
@@ -144,7 +160,7 @@ class: bg_yellow, center, middle
 ### Pesquisa de Ana Carolina Veloso (UNILAB) e Priscila Valverde (UNILAB e LABHDUFBA), PROPPG 04/2021 - PIBIC UNILAB
 <br>
 
-### [Ver dados completos](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC)
+### [Ver dados completos da pesquisa](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC)
 <br>
 
 ---
@@ -193,6 +209,9 @@ class: bg_green, center, middle
 ## Criatividade e crítica a partir dos problemas históricos e políticos que são caros à historiografia do Pós-abolição.
 ---
 class: bg_yellow, middle, center
+
+## Acesse a bibliografia utilizada na apresentação [clicando aqui](biblio.html).
+<br>
 
 ## Acesse a biblioteca de referências **História Digital** no Zotero, [clicando aqui](https://www.zotero.org/groups/2216280/histria_digital/library).
 
