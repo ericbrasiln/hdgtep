@@ -1,8 +1,8 @@
 ---
-title: "Criação, manutenção e divulgação de projetos de História em meios digitais: git, GitHub e o Programming Historian"
-subtitle: "Bibliografia para o webinar organizado pelo LHUD/FGV/CPDOC"
+title: "Ocupar as Humanidades Digitais:a historiografia do Pós-abolição e a virada digital"
+subtitle: "Bibliografia para Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico."
 author: "[Eric Brasil](https://ericbrasiln.github.io)"
-date: '20 de maio de 2022<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6566754.svg)](https://doi.org/10.5281/zenodo.6566754)'
+date: '01 de dezembro de 2022<br>'
 output: html_document
 ---
 
@@ -11,18 +11,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 - ALVES, Daniel. Ensinar Humanidades Digitais sem as Humanidades Digitais: um olhar a partir das licenciaturas em História. *Revista EducaOnline*, v. 15, n. 2, p. 5–26, 2021.
+
+- ARRIAGA ARANGO, Eduard. Racismo y discurso en la era digital: el caso de la revista Hola y los discursos en las redes sociales. *Discurso & Sociedad*, v. 7, p. 617–642, 2013.
   
-- BAKER, James. Preservar os seus dados de investigação.* The Programming Historian em português*, Trad. Márcia T. Cavalcanti. n. 1, 2021. Disponível em: <https://programminghistorian.org/pt/licoes/preservar-os-seus-dados-de-investigacao>. Acesso em: 12 maio 2021.
+- BENJAMIN; RUHA. *Race after technology*: abolitionist tools for the new Jim code.: Wiley;Polity Press, 2019.
+
+- BIRHANE, Abeba. Algorithmic Colonization of Africa. *SCRIPTed*, v. 17, n. 2, p. 389–409, 2020.
 
 - BLANEY, Jonathan; MILLGAN, Sarah; STEER, Martin; et al. *Doing digital history*: a beginner’s guide to working with text as data. Manchester: Manchester University Press, 2021. (IHR research guides).
 
 - BRASIL, Eric; NASCIMENTO, Leonardo Fernandes. História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica. *Revista Estudos Históricos*, v. 33, n. 69, p. 196–219, 2020.
 
+- BUCHER, Taina. *If...then*: algorithmic power and politics. New York: Oxford University Press, 2018.
+  
 - CRYMBLE, Adam. *Technology and the Historian*: Transformations in the Digital Age. Urbana: University of Illinois Press, 2021. (Topics in the Digital Humanities).
 
 - ELO, Kimmo. Big Data, Bad Metadata: A Methodological Note on the Importance of Good Metadata in the Age of Digital History. In: FRIDLUND, Mats; OIVA, Mila; PAJU, Petri (Orgs.). *Digital Histories*: Emergent Approaches within the New Digital History. [s.l.]: Helsinki University Press, 2020, p. 103–111.
 
 - FICKERS, Andreas. Veins filled with the Diluted Sap of Rationality: A Critical Reply to Rens Bod. *BMGN - Low Countries Historical Review*, v. 128, n. 4, p. 155–163, 2013.
+  
+- FIORMONTE, Domenico. ¿Por qué las Humanidades Digitales necesitan al Sur? In: *Construcciones locales en contextos globales*: Actas del I Congreso Internacional de la Asociación Argentina de Humanidades Digitales. Trad. María Gimena Del Río Riande. Buenos Aires: Facultad de Filosofía y Letras - Instituto de Geografía, 2018, p. 3.
 
 - FRIDLUND, Mats. Digital history 1.5: A middle way between normal and paradigmatic digital historical research. In: *Digital histories*: Emergent approaches within the new digital history. Helsinki: Helsinki University Press, 2020, p. 69–87.
 
@@ -30,6 +38,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - GALLOWAY, Alexander R. *The Interface Effect*. Cambridge: Polity, 2012.
 
+- GOODING, Paul; TERRAS, Melissa; WARWICK, Claire. The myth of the new: mass digitization, distant reading, and the future of the book. *Literary and Linguistic Computing*, v. 28, n. 4, p. 629–639, 2013.
+
+- HART, Jennifer. Introduction: Digital History in African Studies. *History in Africa*, v. 47, n. 1, p. 269–274, 2020.
+  
 - HECHL, Stefan; LANGLAIS, Pierre-Carl; MARJANEN, Jani; et al. Digital interfaces of historical newspapers: opportunities, restrictions and recommendations. *Journal of Data Mining & Digital Humanities*, v. HistoInformatics, 2021.
   
 - HEIJDEN, Tim van der; FICKERS, Andreas. Inside the Trading Zone: Thinkering in a Digital History Lab. *Digital Humanities Quarterly*, v. 14, n. 3, 2020.
@@ -38,29 +50,41 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - JENSEN, Helle Strandgaard. Digital Archival Literacy for (all) Historians. *Media History*, v. 27, n. 2, p. 251–265, 2021.
 
-
 - KEMMAN, Max. *Trading Zones of Digital History*. Berlin: De Gruyter Oldenbourg, 2021.
   
 - LÄSSIG, Simone. Digital History. *Geschichte und Gesellschaft*, v. 47, n. 1, p. 5–34, 2021.
   
+- LOSH, Elizabeth; WERNIMONT, Jacqueline. *Bodies of Information*: Intersectional Feminism and the Digital Humanities. Minneapolis: University of Minnesota Press, 2019. 
+  
 - LUCCHESI, Anita. *For a New Hermeneutics of Practice in Digital Public History*: Thinkering with memorecord.uni.lu. University of Luxembourg, Luxembourg, 2020.
 
-- MARRES, Noortje; WELTEVREDE, Esther. Scraping the Social? *Journal of Cultural Economy*, v. 6, n. 3, p. 313–335, 2013.
-  
-- MCCLURKEN, Jeffrey (Org.). The Programming Historian. *Journal of American History*, v. 103, n. 1, p. 299.2-301, 2016.
-  
+- MCILWAIN, Charlton D. *Black Software*: The Internet & Racial Justice, from the AfroNet to Black Lives Matter. Oxford University Press, 2019. 
+
 - MILLIGAN, Ian. *History in the Age of Abundance?*: How the Web Is Transforming Historical Research. 328. ed. London; Chicago: McGill-Queen’s University Press, 2019.
   
+- MORAVEC, Michelle; CHANG, Kent K. Feminist Bestsellers: A Digital History of 1970s Feminism. *Journal of Cultural Analytics*, v. 1, n. 1, p. 22333, 2021.
+
+- NEWMAN, Simon P. Breaking Free: Digital History and Escaping from Slavery. *The William and Mary Quarterly*, v. 76, n. 1, p. 33–40, 2019.
+
+- NOBLE, Safiya Umoja. *Algorithms of oppression*: data discrimination in the age of Google. New York: New York University Pres, 2018.
+- MARRES, Noortje; WELTEVREDE, Esther. Scraping the Social? *Journal of Cultural Economy*, v. 6, n. 3, p. 313–335, 2013.
+  
+- O’NEIL, Cathy. *Algoritmos de Destruição em Massa*. 1ª edição. Editora Rua do Sabão, 2021.
+
 - PACHER, Andreas. Record how you search, not just what you find: Thoughtfully constructed search terms greatly enhance the reliability of digital research. Disponível em: <https://blogs.lse.ac.uk/impactofsocialsciences/2013/06/10/record-how-you-search-not-just-what-you-find/>. Acesso em: 19 maio 2022.
+  
+- PEREZ, Caroline Criado. *Invisible Women*: Data Bias in a World Designed for Men. New York: Abrams Press, 2019.
   
 - PFANZELTER, Eva; OBERBICHLER, Sarah; MARJANEN, Jani; et al. Digital interfaces of historical newspapers: opportunities, restrictions and recommendations. *Journal of Data Mining and Digital Humanities*, 2020.
 
 - PUTNAM, Lara. The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast. *The American Historical Review*, v. 121, n. 2, p. 377–402, 2016.
 
-- RÖHLE, Bernhard Rieder Theo; RIEDER, Bernhard. Digital Methods: Five Challenges. In: BERRY, David M. (Org.). *Understanding Digital Humanities*. London: Palgrave Macmillan UK, 2012, p. 67–84.
+- RÖHLE, Theo; RIEDER, Bernhard. Digital Methods: Five Challenges. In: BERRY, David M. (Org.). *Understanding Digital Humanities*. London: Palgrave Macmillan UK, 2012, p. 67–84.
 
 - ROMEIN, C. Annemieke; KEMMAN, Max; BIRKHOLZ, Julie M.; et al. State of the Field: Digital History. *History*, v. 105, n. 365, p. 291–312, 2020.
 
 - SALMI, Hannu. *What is Digital History?* 1ª edição. Cambridge: Polity, 2020. (What is History? Series).
+
+- SILVA, Tarcízio (Org.). *Comunidades, Algoritmos e Ativismos Digitais*: Olhares Afrodiaspóricos. 1. ed. São Paulo: LiteraRUA, 2020.
 
 - ZAAGSMA, Gerben. On Digital History. *BMGN - Low Countries Historical Review*, v. 128, n. 4, p. 3–29, 2013.
