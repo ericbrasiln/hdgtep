@@ -1,0 +1,285 @@
+---
+title: "Ocupar as Humanidades Digitais:"
+subtitle: "<br>a historiografia do Pós-abolição e a virada digital<br><br><br><br><br>"
+description: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico."
+author: "Eric Brasil (IHLM/UNILAB)<br>ericbrasiln@proton.me"
+date: "<br>01 de dezembro de 2022<br><br>[![DOI](https://zenodo.org/badge/523121989.svg)](https://zenodo.org/badge/latestdoi/523121989)"
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: ["css/yellow.css", "css/yellow-fonts.css"]
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      beforeInit: "https://platform.twitter.com/widgets.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+layout: true
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.align = "center",
+	message = FALSE,
+	warning = FALSE,
+	cache = FALSE
+)
+```
+
+```{r eval=FALSE, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(widgetframe)
+```
+---
+class: bg_green, center, middle
+
+# Humanidades Digitais: um campo de muitas disputas
+
+---
+class: bg_yellow, center, middle
+
+## Longa história das tecnologias com as pesquisas em Humanidades
+<br>
+
+--
+### -  Index Thomisticus de Roberto Busa em parceria com a IBM (1940-1970)
+<br>
+
+--
+### - Computadores e Humanidades antes das Humanidades Digitais
+
+---
+class: bg_yellow, center, middle
+
+## Pensando na História, onde estamos nessa conversa?
+<br>
+
+--
+### -  Muitas histórias do uso do computador na historiografia`[^1]`
+
+`[^1]:`[Technology and the Historian: Transformations in the Digital Age](https://www.press.uillinois.edu/books/?id=p085697) de Adam Crymble.
+<br>
+
+--
+### - Nos afastamos dos computadores a partir de 1990?
+
+---
+class: bg_green, center, middle
+# Historiografia do Pós-abolição: experiências sociais, memórias e luta política
+---
+class: bg_yellow, center, middle
+
+## Entre o Pós-Abolição e a História Digital: usos e sentidos do termo pós-abolição nos Simpósios Nacionais de História da ANPUH (2013 - 2019)
+<br>
+
+### Pesquisa de Priscila Valverde (UNILAB e LABHDUFBA)
+<br>
+
+### [Ver dados](https://ericbrasiln.github.io/pibic_2020-2021/pos-abolicao/graphs/bar_tema_10_central.html)
+<br>
+
+--
+### Temas e problemas históricos do Pós-abolição nos afastam das Humanidades Digitais?
+<br>
+
+---
+class: bg_yellow, center, middle
+## Humanidades digitais: um risco para o aprofundamento das desigualdades na pesquisa?
+<br>
+
+--
+### - Risco de favorecer fontes e acervos dos grandes centros?
+<br>
+
+--
+### - Retornar para uma história distante das experiências sociais dos homens e mulheres 'de baixo'?
+<br>
+
+--
+### - É um risco também internamente para o Brasil.
+
+---
+class: bg_green, center, middle
+# Quem define o que é relevante?
+<br>
+```{r, out.width="60%"}
+knitr::include_graphics("https://i.giphy.com/media/Xch9I90tRezyicQgma/giphy.webp")
+```
+
+---
+class: bg_yellow, center, middle
+
+## Mas já não estamos praticando uma história mediada por tecnologias digitais?
+<br>
+
+--
+### 1. Bancos de dados (desde os anos 1980)
+<br>
+
+--
+### 2. Acervos digitalizados (mesmo que fruto de projetos sem financiamentos coerentes)
+<br>
+
+--
+### 3. História Oral e Memória 
+<br>
+
+--
+### 4. História Pública, Ensino de História, História do Tempo Presente
+
+---
+class: bg_yellow, center, middle
+
+## História Digital: ferramentas digitais para pesquisa e ensino a partir da visão de docentes de IES federais no estado da Bahia 
+<br>
+
+### Pesquisa de Ana Carolina Veloso (UNILAB) e Priscila Valverde (UNILAB e LABHDUFBA), PROPPG 04/2021 - PIBIC UNILAB
+<br>
+
+### [Ver dados completos](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC)
+<br>
+
+---
+class: bg_yellow, middle, center
+
+## Utilização de repositórios digitais de fontes
+<br>
+```{r, out.width="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/main/Relatorios/imgs/gr3.png")
+```
+
+---
+class: bg_yellow, middle, center
+
+## Formação universitária em História
+<br>
+```{r, out.width="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/main/Relatorios/imgs/gr15.png")
+```
+
+---
+class: bg_yellow, middle, center
+
+## Demanda por formação em ferramentas digitais
+<br>
+```{r, out.width="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/main/Relatorios/imgs/gr17.png")
+```
+
+---
+class: bg_yellow, middle, center
+
+## Métodos de interesse
+<br>
+```{r, out.width="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/main/Relatorios/imgs/gr19.png")
+```
+
+---
+class: bg_green, center, middle
+
+# Ocupar as Humanidades digitais
+<br>
+
+--
+## Criatividade e crítica a partir dos problemas históricos e políticos que são caros à historiografia do Pós-abolição.
+---
+class: bg_yellow, middle, center
+
+## Acesse a biblioteca de referências **História Digital** no Zotero, [clicando aqui](https://www.zotero.org/groups/2216280/histria_digital/library).
+
+---
+class: bg_yellow, middle, center
+
+## Eric Brasil
+<br>
+
+### Email: [ericbrasiln@proton.me](mailto:ericbrasiln@proton.me)
+
+### GitHub: [ericbrasiln](https://github.com/ericbrasiln/)
+
+### Twitter: [ericbrasiln](http://www.twitter.com/ericbrailn) 
+
+### [Orcid](https://orcid.org/0000-0001-5067-8475) - [Lattes](http://lattes.cnpq.br/6853705640900524)
+
+### [Site pessoal](https://ericbrasiln.github.io)
+
+---
+class: bg_yellow, middle, center
+
+```{r, out.width="25%"}
+knitr::include_graphics("img/logo_hist.png")
+```
+
+## Curso de Licenciatura em História
+
+### Instituto de Humanidades e Letras do campus dos Malês, Unilab
+
+### [Site do curso](historia.males.unilab.edu.br/) 
+
+### email: [historia.ba@unilab.edu.br ](mailto:historia.ba@unilab.edu.br)
+
+```{r, out.width="22%"}
+knitr::include_graphics("img/logo_unilab.png", error=FALSE)
+```
+
+---
+class: bg_yellow, middle, center
+
+```{r, out.width="20%"}
+knitr::include_graphics("img/logo_MA_color.png", error=FALSE)
+```
+
+## Laboratório de Humanidades Digitais da UFBA
+
+### Twitter: [labhdufba](https://twitter.com/labhdufba) 
+
+### Instagram: [labhdufba](http://instagram.com/labhdufba)
+
+### Github: [https://github.com/LABHDUFBA](https://github.com/LABHDUFBA)
+
+---
+class: bg_yellow, middle, center
+
+```{r, out.width="20%"}
+knitr::include_graphics("https://raw.githubusercontent.com/programminghistorian/jekyll/gh-pages/images/logos/ph-pt.svg", error=FALSE)
+```
+
+## The Programming Historian
+
+### Site: [https://programminghistorian.org/pt/](https://programminghistorian.org/pt/) 
+
+### Twitter: [ProgHist](https://twitter.com/ProgHist) 
+
+### Github: [https://github.com/programminghistorian](https://github.com/programminghistorian)
+
+---
+class: title-slide-final, middle, center
+
+# Obrigado, gente!
+
+.pull-left[
+<br>
+
+## Agradecimentos especiais:
+<br> 
+
+## À toda organização do evento pelo convite; aos monitores e monitoras e ao público pela escuta e debate.
+<br>
+
+## À Ana Carolina Veloso e Priscila Valverde pela pesquisa desenvolvida e pela parceria.
+]
+
+.pull-right[
+```{r, out.width="90%"}
+knitr::include_graphics("https://media1.giphy.com/media/3o6wNIV9FP28JIleyk/giphy.gif?cid=790b761122702fc03784413d1e84fbe31a5613b955b9bf24&rid=giphy.gif&ct=g")
+```
+]
