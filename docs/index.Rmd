@@ -5,7 +5,6 @@ description: "Apresentação para a mesa *Humanidades Digitais* no III Seminári
 author: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico.<br><br>**Eric Brasil** (IHLM/UNILAB)<br>ericbrasiln@proton.me"
 date: "<br>01 de dezembro de 2022<br><br>"
 encoding: "UTF-8"
-logo: "https://3internacionalposabolicao.com.br/wp-content/uploads/elementor/thumbs/Logo-2-pox8u5vwl3s8qga4t5ucfm8cwyqgo3blvzj3ajhi7c.png"
 output:
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js
