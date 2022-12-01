@@ -1,5 +1,7 @@
 # Ocupar as Humanidades Digitais: a historiografia do Pós-abolição e virada digital
 
+[![DOI](https://zenodo.org/badge/572484624.svg)](https://zenodo.org/badge/latestdoi/572484624)
+
 Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico.
 
 Eric Brasil

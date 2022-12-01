@@ -3,7 +3,7 @@ title: "Ocupar as Humanidades Digitais:"
 subtitle: "<br>a historiografia do Pós-abolição e a virada digital<br><br><br><br><br>"
 description: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico."
 author: "Apresentação para a mesa *Humanidades Digitais* no III Seminário Internacional Histórias do Pós-abolição no Mundo Atlântico.<br><br>**Eric Brasil** (IHLM/UNILAB)<br>ericbrasiln@proton.me"
-date: "<br>01 de dezembro de 2022<br><br>"
+date: "<br>01 de dezembro de 2022<br><br>[![DOI](https://zenodo.org/badge/572484624.svg)](https://zenodo.org/badge/latestdoi/572484624)"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
