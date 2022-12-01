@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "Se você utilizar esse programa, por favor cite como referenciado abaixo."
+authors:
+  - family-names: Brasil
+    given-names: Eric
+    orcid: https://orcid.org/0000-0001-5067-8475
+title: "Ocupar as Humanidades Digitais: a historiografia do Pós-abolição e virada digital"
+type: "conference"
+version: v1
+doi: "10.5281/zenodo.7385997"
+date-released: 2022-12-01
